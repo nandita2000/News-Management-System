@@ -1,0 +1,37 @@
+.news-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #135b8e67;
+  }
+  
+  .news-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .news-form input[type="text"],
+  .news-form input[type="date"],
+  .news-form input[type="file"],
+  .news-form button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .news-form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .news-form button:hover {
+    background-color: #0f2e77;
+  }
+
+  
